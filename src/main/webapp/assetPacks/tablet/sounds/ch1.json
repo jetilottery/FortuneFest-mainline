@@ -1,0 +1,37 @@
+{
+  "urls": [
+    "ch1.ogg",
+    "ch1.m4a"
+  ],
+  "sprite": {
+    "silence": [
+      0,
+      1000,
+      true
+    ],
+    "BackgroundMusicTerm_LOSE": [
+      1050,
+      4687.50566893424
+    ],
+    "BackgroundMusicTerm_WIN": [
+      6100,
+      5859.365079365079
+    ],
+    "BetDown": [
+      12149.999999999998,
+      1054.6712018140597
+    ],
+    "InstantWin20x": [
+      14200,
+      3398.4353741496598
+    ],
+    "LuckyNumberSelect_1": [
+      18250,
+      2324.217687074828
+    ],
+    "MegamatchTileFlip": [
+      21299.999999999996,
+      1660.1360544217698
+    ]
+  }
+}

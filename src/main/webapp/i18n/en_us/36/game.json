@@ -1,0 +1,118 @@
+{
+  "version":"",
+  "Paytable": {
+    "RTPvalue": "{@minRTP}%",
+    "RTPrange": "{@minRTP}% to {@maxRTP}%",
+    "paybackTitle": "Expected Payback",
+    "paybackBody": "For this game, the long-term, theoretically-expected payback is {RTP}.",
+    "overallChances": "There is a 1 in {odds} overall chance of winning a prize on each play.",
+    "prizeDivision": "Prize Division",
+    "prizeRemaining": "Approximate Prizes Remaining",
+    "oddsPerPlay": "Odds Per Play",
+    "subheading": "Ticket Cost: {ticketCost}",
+    "prizeLevel": "Prize Level",
+    "description": "Description",
+    "prizeValue": "Prize Value",
+    "descriptionText1": "Number Match Win",
+    "descriptionText2": "Bonus Win"
+  },
+  "title": "Multiplier Spectacular",
+  "MenuCommand": {
+    "price": "Price",
+    "stake": "Stake",
+    "howToPlay": "Help",
+    "paytable": "Paytable",
+    "close": "Close",
+    "audio": {
+      "sound": "Sound",
+      "on": "On",
+      "off": "Off"
+    }
+  },
+  "Error": {
+    "errorCodePrefix": "Error: ",
+    "genericErrorText": "There has been an internal error. EXIT and relaunch the game."
+  },
+  "Game": {
+    "footer_balance": "BALANCE",
+    "footer_ticketCost": "TOTAL COST",
+    "ticketSelect_ticketCost": "TICKET COST",
+    "ticketCostPrefix": {
+      "BUY": "",
+      "TRY": "TRY "
+    },
+    "footer_win": {
+      "BUY": "WIN",
+      "TRY": "DEMO WIN"
+    },
+
+    "button_buy": {
+      "BUY": "BUY",
+      "TRY": "TRY"
+    },
+    "button_try": "TRY",
+    "button_continue": "CONTINUE",
+    "button_moveToMoney": "PLAY WITH MONEY",
+    "button_autoPlay": "REVEAL ALL",
+    "button_autoPlayBonus" : "AUTO PLAY",
+    "button_start" : "START",
+    "button_stop": "STOP",
+    "button_playAgain":{
+      "BUY": "PLAY AGAIN",
+      "TRY": "TRY AGAIN"
+    },
+    "button_tryAgain": "TRY AGAIN",
+    "button_retry": "RETRY",
+    "button_ok": "OK",
+    "button_exit": "EXIT",
+
+    "error_button_exit": "EXIT",
+    "error_title": "ERROR",
+
+    "message_nonWin": "BETTER LUCK\nNEXT TIME",
+    "message_win":
+    {
+      "BUY": "CONGRATULATIONS!\nYOU HAVE WON",
+      "TRY": "THANKS FOR PLAYING!\nYOU COULD HAVE WON"
+    },
+
+    "howToPlay": "HOW TO PLAY",
+    "page1Title": "",
+    "page2Title": "MEGAMATCH BONUS",
+    "page3Title": "HYPERSPIN BONUS",
+
+    "page1Part1": "Select the number of tickets to play & the price per ticket. Each ticket corresponds to a spot on the grid. To play all 20 spots, purchase 20 tickets. Select BUY to begin play.",
+    "page1Part2": "Match a YOUR TICKET number to a LUCKY NUMBER to win the corresponding prize.",
+    "page1Part3": "Reveal a Multiplier Symbol to win the multiplier times the corresponding prize.",
+    "page1Part4": "Reveal a Gold Coin Symbol to trigger the Megamatch or Hyperspin Bonus Games.",
+    "page1Part5": "",
+
+    "page2Part1": "Select all 5 spots in a row.",
+    "page2Part2": "Reveal 3 matching multiplier values in the same row to add the multiplier value to the Multiplier counter.(For example: Find 3 10X multipliers in a single row to add 10X to the counter.)",
+    "page2Part3": "Repeat for the remaining rows. Up to 3 rows can contain matching multiplier values.At the end of the Bonus Game, you win the price per ticket multiplied by the accumulated multiplier value.",
+    "page2Part4": "",
+
+    "page3Part1": "Select SPIN to spin the 4-ring wheel.",
+    "page3Part2": "When it stops, the first 3 rings will display multiplier values, which are added to the Multiplier counter. The outer ring will display either a multiplier value, which is added to the counter, or COLLECT, which ends the bonus game.",
+    "page3Part3": "If COLLECT is not revealed in the outer ring, the wheel spins again. The cycle continues until COLLECT is revealed.",
+    "page3Part4": "At the end of the Bonus Game, you win the price per ticket multiplied by the accumulated multiplier value.",
+
+    "winUpToText": "WIN UP TO",
+    "winUpToValue": "{0}!",
+
+    "yourNumbers": "YOUR NUMBERS",
+    "luckyNumbers": "WINNING NUMBERS",
+    "bonusWin": "TOTAL BONUS WIN",
+
+    "baseGameInfo": "FIND THE GOLD COIN TO TRIGGER THE MYSTERY BONUS.\nPLAY 1 OF 2 POSSIBLE BONUS GAMES!",
+    "bonusGameInfo": "MATCH 3 OF A KIND IN ANY ROW TO WIN!",
+    "wheelGameInfo": "RE-SPIN UNTIL LANDING ON COLLECT",
+
+    "collect" : "COLLECT",
+    "spinButton" : "SPIN",
+
+    "tickets" : "TICKETS",
+    "totalCost" : "TOTAL COST",
+    "multiplier" : "MULTIPLIER"
+  }
+}

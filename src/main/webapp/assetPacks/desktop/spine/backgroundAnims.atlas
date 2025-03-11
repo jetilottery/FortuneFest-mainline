@@ -1,0 +1,61 @@
+
+backgroundAnims.png
+size: 1204,534
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PNG/balls1
+  rotate: false
+  xy: 998, 232
+  size: 204, 300
+  orig: 204, 300
+  offset: 0, 0
+  index: -1
+PNG/balls2
+  rotate: true
+  xy: 450, 2
+  size: 155, 279
+  orig: 159, 283
+  offset: 0, 4
+  index: -1
+PNG/balls3
+  rotate: true
+  xy: 998, 90
+  size: 140, 203
+  orig: 140, 203
+  offset: 0, 0
+  index: -1
+PNG/balls4
+  rotate: true
+  xy: 731, 16
+  size: 141, 257
+  orig: 141, 257
+  offset: 0, 0
+  index: -1
+PNG/lights
+  rotate: false
+  xy: 2, 10
+  size: 446, 522
+  orig: 453, 529
+  offset: 3, 5
+  index: -1
+PNG/pinklight
+  rotate: true
+  xy: 450, 159
+  size: 373, 546
+  orig: 520, 620
+  offset: 78, 33
+  index: -1
+
+backgroundAnims2.png
+size: 856,16
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+PNG/special_scale/pink_side
+  rotate: false
+  xy: 2, 2
+  size: 852, 1
+  orig: 872, 1
+  offset: 0, 0
+  index: -1

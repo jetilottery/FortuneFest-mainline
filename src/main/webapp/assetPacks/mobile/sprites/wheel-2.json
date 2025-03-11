@@ -1,0 +1,21 @@
+{"frames": {
+
+"wheelBase":
+{
+	"frame": {"x":1,"y":1,"w":1043,"h":1042},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1043,"h":1042},
+	"sourceSize": {"w":1043,"h":1042},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "wheel-2.png",
+	"format": "RGBA8888",
+	"size": {"w":1045,"h":1044},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:acb0db57cdec9114d6e9c01af7d40424:31d9e77b02b39963ce35c4d1a87a38da:e4f46ca7cf5f1d2f348f27f27db5b59a$"
+}
+}

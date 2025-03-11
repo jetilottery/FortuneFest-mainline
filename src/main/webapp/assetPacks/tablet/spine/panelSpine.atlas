@@ -1,0 +1,13 @@
+
+panelSpine.jpg
+size: 2044,2044
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+JPEG/bg
+  rotate: false
+  xy: 2, 2
+  size: 2040, 2040
+  orig: 2040, 2040
+  offset: 0, 0
+  index: -1

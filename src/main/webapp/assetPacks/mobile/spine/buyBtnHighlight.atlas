@@ -1,0 +1,216 @@
+
+buyBtnHighlight.jpg
+size: 2018,810
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+JPEG/buy_pulse_000
+  rotate: false
+  xy: 2, 658
+  size: 350, 150
+  orig: 350, 150
+  offset: 0, 0
+  index: -1
+JPEG/buy_pulse_029
+  rotate: false
+  xy: 2, 658
+  size: 350, 150
+  orig: 350, 150
+  offset: 0, 0
+  index: -1
+JPEG/buy_pulse_001
+  rotate: false
+  xy: 354, 658
+  size: 350, 150
+  orig: 350, 150
+  offset: 0, 0
+  index: -1
+JPEG/buy_pulse_002
+  rotate: false
+  xy: 706, 658
+  size: 350, 150
+  orig: 350, 150
+  offset: 0, 0
+  index: -1
+JPEG/buy_pulse_003
+  rotate: false
+  xy: 1058, 658
+  size: 350, 150
+  orig: 350, 150
+  offset: 0, 0
+  index: -1
+JPEG/buy_pulse_004
+  rotate: true
+  xy: 1410, 458
+  size: 350, 150
+  orig: 350, 150
+  offset: 0, 0
+  index: -1
+JPEG/buy_pulse_005
+  rotate: true
+  xy: 1562, 458
+  size: 350, 150
+  orig: 350, 150
+  offset: 0, 0
+  index: -1
+JPEG/buy_pulse_006
+  rotate: true
+  xy: 1714, 458
+  size: 350, 150
+  orig: 350, 150
+  offset: 0, 0
+  index: -1
+JPEG/buy_pulse_007
+  rotate: true
+  xy: 1866, 458
+  size: 350, 150
+  orig: 350, 150
+  offset: 0, 0
+  index: -1
+JPEG/buy_pulse_008
+  rotate: false
+  xy: 2, 506
+  size: 350, 150
+  orig: 350, 150
+  offset: 0, 0
+  index: -1
+JPEG/buy_pulse_009
+  rotate: false
+  xy: 354, 506
+  size: 350, 150
+  orig: 350, 150
+  offset: 0, 0
+  index: -1
+JPEG/buy_pulse_010
+  rotate: false
+  xy: 706, 506
+  size: 350, 150
+  orig: 350, 150
+  offset: 0, 0
+  index: -1
+JPEG/buy_pulse_011
+  rotate: true
+  xy: 1058, 306
+  size: 350, 150
+  orig: 350, 150
+  offset: 0, 0
+  index: -1
+JPEG/buy_pulse_012
+  rotate: true
+  xy: 1210, 306
+  size: 350, 150
+  orig: 350, 150
+  offset: 0, 0
+  index: -1
+JPEG/buy_pulse_013
+  rotate: false
+  xy: 1362, 306
+  size: 350, 150
+  orig: 350, 150
+  offset: 0, 0
+  index: -1
+JPEG/buy_pulse_014
+  rotate: true
+  xy: 1714, 106
+  size: 350, 150
+  orig: 350, 150
+  offset: 0, 0
+  index: -1
+JPEG/buy_pulse_015
+  rotate: true
+  xy: 1866, 106
+  size: 350, 150
+  orig: 350, 150
+  offset: 0, 0
+  index: -1
+JPEG/buy_pulse_016
+  rotate: false
+  xy: 2, 354
+  size: 350, 150
+  orig: 350, 150
+  offset: 0, 0
+  index: -1
+JPEG/buy_pulse_017
+  rotate: false
+  xy: 354, 354
+  size: 350, 150
+  orig: 350, 150
+  offset: 0, 0
+  index: -1
+JPEG/buy_pulse_018
+  rotate: true
+  xy: 706, 154
+  size: 350, 150
+  orig: 350, 150
+  offset: 0, 0
+  index: -1
+JPEG/buy_pulse_019
+  rotate: true
+  xy: 858, 154
+  size: 350, 150
+  orig: 350, 150
+  offset: 0, 0
+  index: -1
+JPEG/buy_pulse_020
+  rotate: false
+  xy: 1010, 154
+  size: 350, 150
+  orig: 350, 150
+  offset: 0, 0
+  index: -1
+JPEG/buy_pulse_021
+  rotate: false
+  xy: 1362, 154
+  size: 350, 150
+  orig: 350, 150
+  offset: 0, 0
+  index: -1
+JPEG/buy_pulse_022
+  rotate: false
+  xy: 2, 202
+  size: 350, 150
+  orig: 350, 150
+  offset: 0, 0
+  index: -1
+JPEG/buy_pulse_023
+  rotate: true
+  xy: 354, 2
+  size: 350, 150
+  orig: 350, 150
+  offset: 0, 0
+  index: -1
+JPEG/buy_pulse_024
+  rotate: true
+  xy: 506, 2
+  size: 350, 150
+  orig: 350, 150
+  offset: 0, 0
+  index: -1
+JPEG/buy_pulse_025
+  rotate: false
+  xy: 2, 50
+  size: 350, 150
+  orig: 350, 150
+  offset: 0, 0
+  index: -1
+JPEG/buy_pulse_026
+  rotate: false
+  xy: 658, 2
+  size: 350, 150
+  orig: 350, 150
+  offset: 0, 0
+  index: -1
+JPEG/buy_pulse_027
+  rotate: false
+  xy: 1010, 2
+  size: 350, 150
+  orig: 350, 150
+  offset: 0, 0
+  index: -1
+JPEG/buy_pulse_028
+  rotate: false
+  xy: 1362, 2
+  size: 350, 150
+  orig: 350, 150
+  offset: 0, 0
+  index: -1

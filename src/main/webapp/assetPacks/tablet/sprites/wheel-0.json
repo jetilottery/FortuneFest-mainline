@@ -1,0 +1,57 @@
+{"frames": {
+
+"baseRim":
+{
+	"frame": {"x":1,"y":1,"w":1107,"h":1107},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1107,"h":1107},
+	"sourceSize": {"w":1107,"h":1107},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"segments01":
+{
+	"frame": {"x":1110,"y":639,"w":472,"h":451},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":472,"h":451},
+	"sourceSize": {"w":472,"h":451},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"segments02":
+{
+	"frame": {"x":1110,"y":1,"w":636,"h":609},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":636,"h":609},
+	"sourceSize": {"w":636,"h":609},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"segments03":
+{
+	"frame": {"x":965,"y":1110,"w":803,"h":767},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":803,"h":767},
+	"sourceSize": {"w":803,"h":767},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"segments04":
+{
+	"frame": {"x":1,"y":1110,"w":962,"h":918},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":962,"h":918},
+	"sourceSize": {"w":962,"h":918},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "wheel-0.png",
+	"format": "RGBA8888",
+	"size": {"w":1733,"h":2029},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:acb0db57cdec9114d6e9c01af7d40424:31d9e77b02b39963ce35c4d1a87a38da:e4f46ca7cf5f1d2f348f27f27db5b59a$"
+}
+}

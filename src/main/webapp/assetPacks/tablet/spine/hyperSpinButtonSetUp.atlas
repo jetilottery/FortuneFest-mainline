@@ -1,0 +1,34 @@
+
+hyperSpinButtonSetUp.png
+size: 1610,405
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PNG/Spin Dim
+  rotate: false
+  xy: 2, 2
+  size: 400, 401
+  orig: 400, 401
+  offset: 0, 0
+  index: -1
+PNG/Spin Down
+  rotate: false
+  xy: 404, 2
+  size: 400, 401
+  orig: 400, 401
+  offset: 0, 0
+  index: -1
+PNG/Spin Over
+  rotate: false
+  xy: 806, 2
+  size: 400, 401
+  orig: 400, 401
+  offset: 0, 0
+  index: -1
+PNG/Spin Up
+  rotate: false
+  xy: 1208, 2
+  size: 400, 401
+  orig: 400, 401
+  offset: 0, 0
+  index: -1

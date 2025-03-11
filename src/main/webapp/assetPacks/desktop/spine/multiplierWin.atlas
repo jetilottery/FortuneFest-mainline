@@ -1,0 +1,361 @@
+
+multiplierWin.jpg
+size: 204,174
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+JPEG/yellow_glow
+  rotate: false
+  xy: 2, 2
+  size: 200, 170
+  orig: 200, 170
+  offset: 0, 0
+  index: -1
+
+multiplierWin2.jpg
+size: 1820,1012
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+JPEG/confetti(idle)/confetti_idle_000
+  rotate: false
+  xy: 2, 810
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+JPEG/confetti(idle)/confetti_idle_001
+  rotate: false
+  xy: 2, 608
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+JPEG/confetti(idle)/confetti_idle_002
+  rotate: false
+  xy: 204, 810
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+JPEG/confetti(idle)/confetti_idle_003
+  rotate: false
+  xy: 2, 406
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+JPEG/confetti(idle)/confetti_idle_004
+  rotate: false
+  xy: 204, 608
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+JPEG/confetti(idle)/confetti_idle_005
+  rotate: false
+  xy: 406, 810
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+JPEG/confetti(idle)/confetti_idle_006
+  rotate: false
+  xy: 2, 204
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+JPEG/confetti(idle)/confetti_idle_007
+  rotate: false
+  xy: 204, 406
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+JPEG/confetti(idle)/confetti_idle_008
+  rotate: false
+  xy: 406, 608
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+JPEG/confetti(idle)/confetti_idle_009
+  rotate: false
+  xy: 608, 810
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+JPEG/confetti(idle)/confetti_idle_010
+  rotate: false
+  xy: 2, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+JPEG/confetti(idle)/confetti_idle_011
+  rotate: false
+  xy: 204, 204
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+JPEG/confetti(idle)/confetti_idle_012
+  rotate: false
+  xy: 406, 406
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+JPEG/confetti(idle)/confetti_idle_013
+  rotate: false
+  xy: 608, 608
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+JPEG/confetti(idle)/confetti_idle_014
+  rotate: false
+  xy: 810, 810
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+JPEG/confetti(idle)/confetti_idle_015
+  rotate: false
+  xy: 204, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+JPEG/confetti(idle)/confetti_idle_016
+  rotate: false
+  xy: 406, 204
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+JPEG/confetti(idle)/confetti_idle_017
+  rotate: false
+  xy: 608, 406
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+JPEG/confetti(idle)/confetti_idle_018
+  rotate: false
+  xy: 810, 608
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+JPEG/confetti(idle)/confetti_idle_019
+  rotate: false
+  xy: 1012, 810
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+JPEG/confetti(idle)/confetti_idle_020
+  rotate: false
+  xy: 406, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+JPEG/confetti(idle)/confetti_idle_021
+  rotate: false
+  xy: 608, 204
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+JPEG/confetti(idle)/confetti_idle_022
+  rotate: false
+  xy: 810, 406
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+JPEG/confetti(idle)/confetti_idle_023
+  rotate: false
+  xy: 1012, 608
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+JPEG/confetti(idle)/confetti_idle_024
+  rotate: false
+  xy: 1214, 810
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+JPEG/confetti(idle)/confetti_idle_025
+  rotate: false
+  xy: 608, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+JPEG/confetti(idle)/confetti_idle_026
+  rotate: false
+  xy: 810, 204
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+JPEG/confetti(idle)/confetti_idle_027
+  rotate: false
+  xy: 1012, 406
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+JPEG/confetti(idle)/confetti_idle_028
+  rotate: false
+  xy: 1214, 608
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+JPEG/confetti(idle)/confetti_idle_029
+  rotate: false
+  xy: 1416, 810
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+JPEG/confetti(idle)/confetti_idle_030
+  rotate: false
+  xy: 810, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+JPEG/confetti(idle)/confetti_idle_031
+  rotate: false
+  xy: 1012, 204
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+JPEG/confetti(idle)/confetti_idle_032
+  rotate: false
+  xy: 1214, 406
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+JPEG/confetti(idle)/confetti_idle_033
+  rotate: false
+  xy: 1416, 608
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+JPEG/confetti(idle)/confetti_idle_034
+  rotate: false
+  xy: 1618, 810
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+JPEG/confetti(idle)/confetti_idle_035
+  rotate: false
+  xy: 1012, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+JPEG/confetti(idle)/confetti_idle_036
+  rotate: false
+  xy: 1214, 204
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+JPEG/confetti(idle)/confetti_idle_037
+  rotate: false
+  xy: 1416, 406
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+JPEG/confetti(idle)/confetti_idle_038
+  rotate: false
+  xy: 1618, 608
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+JPEG/confetti(idle)/confetti_idle_039
+  rotate: false
+  xy: 1214, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+JPEG/confetti(idle)/confetti_idle_040
+  rotate: false
+  xy: 1416, 204
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+JPEG/confetti(idle)/confetti_idle_041
+  rotate: false
+  xy: 1618, 406
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+JPEG/confetti(idle)/confetti_idle_042
+  rotate: false
+  xy: 1416, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+JPEG/confetti(idle)/confetti_idle_043
+  rotate: false
+  xy: 1618, 204
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+JPEG/confetti(idle)/confetti_idle_044
+  rotate: false
+  xy: 1618, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+
+multiplierWin.png
+size: 548,155
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PNG/lights_01
+  rotate: false
+  xy: 2, 2
+  size: 182, 151
+  orig: 183, 153
+  offset: 1, 1
+  index: -1
+PNG/lights_02
+  rotate: false
+  xy: 186, 2
+  size: 182, 151
+  orig: 183, 153
+  offset: 1, 1
+  index: -1
+PNG/mWin_bg
+  rotate: false
+  xy: 370, 2
+  size: 176, 151
+  orig: 176, 151
+  offset: 0, 0
+  index: -1

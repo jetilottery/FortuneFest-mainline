@@ -1,0 +1,121 @@
+{
+  "version":"",
+  "Paytable": {
+    "RTPvalue": "{@minRTP}%",
+    "RTPrange": "{@minRTP}% to {@maxRTP}%",
+    "paybackTitle": "Expected Payback",
+    "paybackBody": "For this game, the long-term, theoretically-expected payback is {RTP}.",
+    "overallChances": "There is a 1 in {odds} overall chance of winning a prize on each play.",
+    "prizeDivision": "Prize Division",
+    "prizeRemaining": "Approximate Prizes Remaining",
+    "oddsPerPlay": "Odds Per Play",
+    "subheading": "Ticket Cost: {ticketCost}",
+    "prizeLevel": "Prize Level",
+    "description": "Description",
+    "prizeValue": "Prize Value",
+    "descriptionText1": "Number Match Win",
+    "descriptionText2": "Bonus Win"
+  },
+  "title": "Fortune Fest",
+  "MenuCommand": {
+    "price": "Price",
+    "stake": "Stake",
+    "howToPlay": "Help",
+    "paytable": "Paytable",
+    "close": "Close",
+    "audio": {
+      "sound": "Sound",
+      "on": "On",
+      "off": "Off"
+    }
+  },
+  "Error": {
+    "errorCodePrefix": "Error: ",
+    "genericErrorText": "There has been an internal error. EXIT and relaunch the game."
+  },
+  "Game": {
+    "footer_balance": "BALANCE",
+    "footer_ticketCost": "TOTAL COST",
+    "ticketSelect_ticketCost": "TICKET COST",
+    "ticketCostPrefix": {
+      "BUY": "",
+      "TRY": "DEMO "
+    },
+    "footer_win": {
+      "BUY": "WINS",
+      "TRY": "DEMO WINS"
+    },
+
+    "button_buy": {
+      "BUY": "BUY",
+      "TRY": "TRY"
+    },
+    "button_try": "TRY",
+    "button_continue": "CONTINUE",
+    "button_moveToMoney": "PLAY WITH MONEY",
+    "button_autoPlay": "REVEAL ALL",
+    "button_autoPlayBonus" : "AUTO PLAY",
+    "button_start" : "START",
+    "button_stop": "STOP",
+    "button_playAgain":{
+      "BUY": "PLAY AGAIN",
+      "TRY": "TRY AGAIN"
+    },
+    "button_tryAgain": "TRY AGAIN",
+    "button_retry": "RETRY",
+    "button_ok": "OK",
+    "button_exit": "EXIT",
+
+    "error_button_exit": "EXIT",
+    "error_title": "ERROR",
+
+    "message_nonWin": "BETTER LUCK\nNEXT TIME",
+    "message_win":
+    {
+      "BUY": "CONGRATULATIONS!\nYOU HAVE WON",
+      "TRY": "THANKS FOR PLAYING!\nYOU COULD HAVE WON"
+    },
+
+    "howToPlay": "HOW TO PLAY",
+    "page1Title": "",
+    "page2Title": "MYSTERY MATCH BONUS",
+    "page3Title": "SUPER SPIN BONUS",
+
+    "page1Part1": "Select the number of tickets to play, the cost per ticket & Press BUY to begin.",
+    "page1Part2": "Match YOUR TICKETS to LUCKY NUMBERS and win the associated prize.",
+    "page1Part3": "Reveal a Multiplier Symbol to win the corresponding prize instantly.",
+    "page1Part4": "Reveal a Mystery Box Symbol to trigger a Mystery Bonus game.",
+    "page1Part5": "Mystery Box will open to reveal either Mystery Match or Super Spin Bonus.",
+
+    "page2Part1": "Reveal all 5 rows.",
+    "page2Part2": "Find 3 matching multiplier amounts on any one row to win.",
+    "page2Part3": "Multiple rows may be won!",
+    "page2Part4": "Win the triggering ticket cost multiplied by the total accumulated multipliers.",
+
+    "page3Part1": "Press SPIN to play.",
+    "page3Part2": "Revealed multipliers are accumulated in the field above.",
+    "page3Part3": "Keep spinning until the outer ring lands on COLLECT.",
+    "page3Part4": "Win the triggering ticket cost multiplied by the total accumulated multipliers.",
+
+    "winUpToText": "WIN UP TO",
+    "winUpToValue": "{0}!",
+    "bonus": "BONUS",
+    "bonusNoWin": "NO BONUS WIN",
+    "bonusWin": "TOTAL BONUS WIN",
+
+    "yourNumbers": "YOUR TICKETS",
+    "luckyNumbers": "LUCKY NUMBERS",
+
+    "baseGameInfo": "FIND THE GOLD COIN TO TRIGGER THE MYSTERY BONUS.\nPLAY 1 OF 2 POSSIBLE BONUS GAMES!",
+    "bonusGameInfo": "MATCH 3 OF A KIND IN ANY ROW TO WIN!",
+    "wheelGameInfo": "RE-SPIN UNTIL LANDING ON COLLECT",
+
+    "collect" : "COLLECT",
+    "spinButton" : "SPIN",
+
+    "tickets" : "TICKETS",
+    "totalCost" : "TOTAL COST",
+    "multiplier" : "MULTIPLIER"
+
+  }
+}

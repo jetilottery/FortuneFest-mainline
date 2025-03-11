@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Splash</title>
+    <style type="text/css">
+        html,
+        body {
+            width: 100%;
+            height: 100%;
+            margin: 0px auto;
+            padding: 0;
+            background: #000000;
+        }
+        
+        body {
+            background-size: contain;
+            background-repeat: no-repeat;
+            background-position: 50%;
+            background-repeat: no-repeat;
+            opacity: 0;
+            transition: opacity 0.2s linear;
+        }
+        .loaded {
+            opacity: 1;
+        }
+
+        .container {
+            height: 810px;
+            width: 1440px;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: space-between;
+        }
+        
+        .loader {
+            position: relative;
+            margin: 102px 0 10px;
+        }
+        
+        .logo {
+            position: absolute;
+            right: 30px;
+            bottom: 30px;
+        }
+        
+        .spinner {
+            position: relative;
+            height: 122px;
+            width: 100%;
+            overflow: hidden;
+            visibility: hidden;
+        }
+
+        .loaded .spinner {
+            visibility: visible;
+        }
+
+        .progress {
+            position: absolute;
+            height: 100%;
+            width: 100%;
+            line-height: 122px;
+            text-align: center;
+            font-weight: bold;
+            font-family: oswald, sans-serif;
+            font-size: 24px;
+            color: #ffd606;
+            /* text-shadow: 0 1px 0 #222222; */
+        }
+
+        @media screen and (orientation: portrait) {
+            .container {
+                height: 1228px;
+                width: 810px;
+            }
+            .loader {
+                margin: 320px 0 10px;
+            }
+            .loaderImage {
+                height: auto;
+                width: 774px;
+            }
+       }
+        
+        .copyright {
+            min-height: 1.2em;
+            color: #ffffff;
+            font-family: sans-serif;
+            margin: 20px;
+        }
+        
+        .ring {
+            position: absolute;
+            left: 0;
+            width: 100%;
+            height: 100%;
+        }
+        
+        .inner {
+            -webkit-transform-origin: 50%;
+            transform-origin: 50%;
+            -webkit-animation-name: rotate;
+            animation-name: rotate;
+            -webkit-animation-duration: 0.66s;
+            animation-duration: 0.66s;
+            -webkit-animation-iteration-count: infinite;
+            animation-iteration-count: infinite;
+            -webkit-animation-timing-function: linear;
+            animation-timing-function: linear;
+        }
+        
+        .inner-stroke, .inner-fill {
+            -webkit-transform-origin: 50%;
+            transform-origin: 50%;
+            -webkit-animation-name: yoyo;
+            animation-name: yoyo;
+            -webkit-animation-duration: .9s;
+            animation-duration: .9s;
+            -webkit-animation-iteration-count: infinite;
+            animation-iteration-count: infinite;
+            -webkit-animation-direction: alternate;
+            animation-direction: alternate;
+            -webkit-animation-timing-function: ease-in-out;
+            animation-timing-function: ease-in-out;
+        }
+        
+        @-webkit-keyframes rotate {
+            from {
+                -webkit-transform: rotate(0);
+                transform: rotate(0);
+            }
+            to {
+                -webkit-transform: rotate(360deg);
+                transform: rotate(360deg);
+            }
+        }
+        
+        @keyframes rotate {
+            from {
+                -webkit-transform: rotate(0);
+                transform: rotate(0);
+            }
+            to {
+                -webkit-transform: rotate(360deg);
+                transform: rotate(360deg);
+            }
+        }
+        @-webkit-keyframes yoyo {
+            from {
+                stroke-dasharray: 20 282;
+                -webkit-transform: rotate(0);
+                transform: rotate(0);
+            }
+            to {
+                stroke-dasharray: 188 282;
+                -webkit-transform: rotate(-120deg);
+                transform: rotate(-120deg);
+            }
+        }
+        @keyframes yoyo {
+            from {
+                stroke-dasharray: 20 282;
+                -webkit-transform: rotate(0);
+                transform: rotate(0);
+            }
+            to {
+                stroke-dasharray: 188 282;
+                -webkit-transform: rotate(-120deg);
+                transform: rotate(-120deg);
+            }
+        }
+        
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <div class="loader"></div>
+        
+        <div class="spinner">
+            <svg class="ring" viewBox="0 0 122 122" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <circle class="st0" cx="61" cy="61" r="45" fill="none" stroke="#2c4368" stroke-width="14"/>
+                <circle class="st1" cx="61" cy="61" r="45" fill="none" stroke="#91b3e1" stroke-width="10"/>
+            </svg>
+            
+            <svg class="ring inner" viewBox="0 0 122 122" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <circle class="inner-fill" cx="61" cy="61" r="45" fill="none" stroke="#f4fdff" stroke-width="8" stroke-linecap="round" stroke-dasharray="100,500"/>
+            </svg>
+            <span class="progress"></span>
+        </div>
+        
+        <small class="copyright"></small>
+    </div>
+
+                                    <script type="text/javascript" src="require.js?v=1.2.21.1"></script>
+                                    
+                                <script type="text/javascript">
+                                    window._cacheFlag = {};
+                                    window._cacheFlag.revisionTag = "0";
+                                    var revisionTagMatch = window.location.search.match(/&?revisionTag=([\w-]+)&?/);
+                                    if(revisionTagMatch && revisionTagMatch[1]){window._cacheFlag.revisionTag = revisionTagMatch[1];}
+                                    window._cacheFlag.gameVersion = "1.2.21.1";
+                                    window._cacheFlag.queryStr = "?v=1.2.21.1&t="+window._cacheFlag.revisionTag;
+                                </script>
+                                    <script type="text/javascript">
+                                        require.config({
+  paths: {
+    'postal': 'messagebus/postal',
+    'postal.federation': 'messagebus/postal.federation',
+    'xframe': 'messagebus/postal.xframe',
+    'request-response': 'messagebus/postal.request-response',
+    'riveter': 'messagebus/riveter',
+    'underscore': 'messagebus/underscore',
+    'lodash': 'messagebus/lodash',
+    'promise': 'messagebus/q',
+    'TweenLite': 'com/gsap/TweenLite'
+  },
+  map: {
+    "*": {
+      "TweenLite": "com/gsap/TweenLite",
+      "TweenMax": "com/gsap/TweenMax",
+      "TimelineLite": "com/gsap/TimelineLite"
+    }
+  },
+  "shim": {
+    'com/pixijs/pixi-particles': {
+      deps: ['com/pixijs/pixi']
+    },
+  },
+  urlArgs:'',
+  waitSeconds: 15
+});
+
+
+                                        require(["splash"]);
+                                    </script>
+                                    </body>
+</html>

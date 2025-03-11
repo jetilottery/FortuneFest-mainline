@@ -1,0 +1,29 @@
+{
+  "urls": [
+    "ch9.ogg",
+    "ch9.m4a"
+  ],
+  "sprite": {
+    "silence": [
+      0,
+      1000,
+      true
+    ],
+    "BonusTransition": [
+      1050,
+      2382.8117913832207
+    ],
+    "MegamatchRevealAll": [
+      4100.000000000001,
+      1874.9886621315195
+    ],
+    "NumberMatch": [
+      6150,
+      3666.666666666666
+    ],
+    "YourNumberSelect_5": [
+      10200,
+      1933.5827664399083
+    ]
+  }
+}

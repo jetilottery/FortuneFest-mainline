@@ -1,0 +1,120 @@
+{
+  "version":"",
+  "Paytable": {
+    "RTPvalue": "{@minRTP}%",
+    "RTPrange": "{@minRTP}% to {@maxRTP}%",
+    "paybackTitle": "Expected Payback",
+    "paybackBody": "For this game, the long-term, theoretically-expected payback is {RTP}.",
+    "overallChances": "There is a 1 in {odds} overall chance of winning a prize on each play.",
+    "prizeDivision": "Prize Division",
+    "prizeRemaining": "Approximate Prizes Remaining",
+    "oddsPerPlay": "Odds Per Play",
+    "subheading": "Ticket Cost: {ticketCost}",
+    "prizeLevel": "Prize Level",
+    "description": "Description",
+    "prizeValue": "Prize Value",
+    "descriptionText1": "Number Match Win",
+    "descriptionText2": "Bonus Win"
+  },
+  "title": "Fortune Fest",
+  "MenuCommand": {
+    "price": "Price",
+    "stake": "Stake",
+    "howToPlay": "Help",
+    "paytable": "Paytable",
+    "close": "Close",
+    "audio": {
+      "sound": "Sound",
+      "on": "On",
+      "off": "Off"
+    }
+  },
+  "Error": {
+    "errorCodePrefix": "Error: 0 ",
+    "genericErrorText": "There has been an internal error. EXIT and relaunch the game. 0"
+  },
+  "Game": {
+    "footer_balance": "BALANCE 0",
+    "footer_ticketCost": "TOTAL COST 0",
+    "ticketSelect_ticketCost": "TICKET COST 0",
+    "ticketCostPrefix": {
+      "BUY": "",
+      "TRY": "TRY 0 "
+    },
+    "footer_win": {
+      "BUY": "WIN 0",
+      "TRY": "DEMO WIN 0"
+    },
+
+    "button_buy": {
+      "BUY": "BUY 0",
+      "TRY": "TRY 0"
+    },
+    "button_try": "TRY 0",
+    "button_continue": "CONTINUE 0",
+    "button_moveToMoney": "MOVE TO MONEY 0",
+    "button_autoPlay": "AUTO PLAY 0",
+    "button_autoPlayBonus" : "AUTO PLAY 0",
+    "button_start" : "START 0",
+    "button_stop": "STOP 0",
+    "button_playAgain":{
+      "BUY": "PLAY AGAIN 0",
+      "TRY": "TRY AGAIN 0"
+    },
+    "button_tryAgain": "TRY AGAIN 0",
+    "button_retry": "RETRY 0",
+    "button_ok": "OK 0",
+    "button_exit": "EXIT 0",
+    
+    "error_button_exit": "EXIT 0",
+    "error_title": "ERROR 0",
+
+    "message_nonWin": "BETTER LUCK\nNEXT TIME 0",
+    "message_win":
+    {
+      "BUY": "CONGRATULATIONS!\nYOU HAVE WON 0",
+      "TRY": "THANKS FOR PLAYING!\nYOU COULD HAVE WON 0"
+    },
+
+    "howToPlay": "HOW TO PLAY 0",
+    "page1Title": "",
+    "page2Title": "MEGAMATCH BONUS 0",
+    "page3Title": "HYPERSPIN BONUS 0",
+
+    "page1Part1": "Select the number of tickets to play, the cost per ticket and press BUY to begin. 0",
+    "page1Part2": "Match YOUR TICKETS to LUCKY NUMBERS and win the associated prize. 0",
+    "page1Part3": "Reveal a Multiplier Symbol to win the corresponding prize instantly. 0",
+    "page1Part4": "Reveal a Gold Coin Symbol to trigger a Mystery Bonus game. 0",
+    "page1Part5": "The Gold coin flips to reveal either Megamatch or Hyperspin Bonus. 0",
+
+    "page2Part1": "Reveal all 5 rows. 0",
+    "page2Part2": "Find 3 matching multiplier amounts on any one row to win. 0",
+    "page2Part3": "Multiple rows may be won!. 0",
+    "page2Part4": "Win the triggering ticket cost multiplied by the total accumulated multipliers. 0",
+
+    "page3Part1": "Press SPIN to play. 0",
+    "page3Part2": "Revealed multipliers are accumulated in the field above. 0",
+    "page3Part3": "Keep spinning until the outer ring lands on COLLECT. 0",
+    "page3Part4": "Win the triggering ticket cost multiplied by the total accumulated multipliers 0",
+
+    "winUpToText": "WIN UP TO 0",
+    "winUpToValue": "{0}! 0",
+    "bonus": "BONUS 0",
+    "bonusNoWin": "NO BONUS WIN 0",
+    "bonusWin": "TOTAL BONUS WIN 0",
+
+    "yourNumbers": "YOUR TICKETS 0",
+    "luckyNumbers": "LUCKY NUMBERS 0",
+
+    "baseGameInfo": "FIND THE COIN TO TRIGGER THE MYSTERY BONUS\nPLAY 1 OF 2 POSSIBLE BONUS GAMES! 0",
+    "bonusGameInfo": "MATCH 3 OF A KIND IN ANY ROW TO WIN! 0",
+    "wheelGameInfo": "RE SPIN UNTIL COLLECT 0",
+
+    "collect" : "COLLECT 0",
+    "spinButton" : "SPIN 0",
+
+    "tickets" : "TICKETS 0",
+    "totalCost" : "TOTAL COST 0",
+    "multiplier" : "MULTIPLIER 0"
+  }
+}

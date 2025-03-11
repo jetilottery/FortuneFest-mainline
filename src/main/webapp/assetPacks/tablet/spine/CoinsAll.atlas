@@ -1,0 +1,807 @@
+
+CoinsAll.jpg
+size: 404,404
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+JPEG/starburst_01
+  rotate: false
+  xy: 2, 2
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+
+CoinsAll.png
+size: 1457,686
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PNG/matchBonus
+  rotate: true
+  xy: 1089, 249
+  size: 435, 366
+  orig: 437, 370
+  offset: 1, 2
+  index: -1
+PNG/spinBonus
+  rotate: false
+  xy: 2, 2
+  size: 1085, 682
+  orig: 1097, 695
+  offset: 6, 6
+  index: -1
+
+CoinsAll2.png
+size: 1960,893
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PNG/box_spin/box_spin_000
+  rotate: true
+  xy: 1462, 230
+  size: 221, 248
+  orig: 400, 400
+  offset: 90, 71
+  index: -1
+PNG/box_spin/box_spin_001
+  rotate: true
+  xy: 1681, 453
+  size: 220, 248
+  orig: 400, 400
+  offset: 90, 71
+  index: -1
+PNG/box_spin/box_spin_002
+  rotate: true
+  xy: 2, 273
+  size: 220, 246
+  orig: 400, 400
+  offset: 91, 72
+  index: -1
+PNG/box_spin/box_spin_003
+  rotate: true
+  xy: 721, 241
+  size: 220, 243
+  orig: 400, 400
+  offset: 93, 74
+  index: -1
+PNG/box_spin/box_spin_004
+  rotate: true
+  xy: 721, 466
+  size: 218, 240
+  orig: 400, 400
+  offset: 95, 75
+  index: -1
+PNG/box_spin/box_spin_005
+  rotate: true
+  xy: 1486, 675
+  size: 216, 237
+  orig: 400, 400
+  offset: 97, 77
+  index: -1
+PNG/box_spin/box_spin_006
+  rotate: true
+  xy: 2, 495
+  size: 216, 236
+  orig: 400, 400
+  offset: 97, 78
+  index: -1
+PNG/box_spin/box_spin_007
+  rotate: true
+  xy: 240, 495
+  size: 216, 238
+  orig: 400, 400
+  offset: 97, 77
+  index: -1
+PNG/box_spin/box_spin_008
+  rotate: true
+  xy: 1438, 454
+  size: 219, 241
+  orig: 400, 400
+  offset: 94, 75
+  index: -1
+PNG/box_spin/box_spin_009
+  rotate: true
+  xy: 1712, 230
+  size: 221, 246
+  orig: 400, 400
+  offset: 90, 72
+  index: -1
+PNG/box_spin/box_spin_010
+  rotate: true
+  xy: 731, 9
+  size: 225, 251
+  orig: 400, 400
+  offset: 90, 70
+  index: -1
+PNG/box_spin/box_spin_011
+  rotate: true
+  xy: 476, 17
+  size: 222, 253
+  orig: 400, 400
+  offset: 95, 70
+  index: -1
+PNG/box_spin/box_spin_012
+  rotate: true
+  xy: 485, 690
+  size: 201, 249
+  orig: 400, 400
+  offset: 109, 75
+  index: -1
+PNG/box_spin/box_spin_013
+  rotate: true
+  xy: 2, 713
+  size: 178, 240
+  orig: 400, 400
+  offset: 112, 83
+  index: -1
+PNG/box_spin/box_spin_014
+  rotate: true
+  xy: 985, 683
+  size: 208, 249
+  orig: 400, 400
+  offset: 93, 74
+  index: -1
+PNG/box_spin/box_spin_015
+  rotate: true
+  xy: 1486, 2
+  size: 226, 252
+  orig: 400, 400
+  offset: 89, 69
+  index: -1
+PNG/box_spin/box_spin_016
+  rotate: false
+  xy: 252, 29
+  size: 222, 242
+  orig: 400, 400
+  offset: 91, 73
+  index: -1
+PNG/box_spin/box_spin_017
+  rotate: true
+  xy: 250, 273
+  size: 220, 225
+  orig: 400, 400
+  offset: 91, 83
+  index: -1
+PNG/box_spin/box_spin_018
+  rotate: true
+  xy: 963, 463
+  size: 218, 241
+  orig: 400, 400
+  offset: 91, 73
+  index: -1
+PNG/box_spin/box_spin_019
+  rotate: true
+  xy: 984, 5
+  size: 225, 249
+  orig: 400, 400
+  offset: 90, 70
+  index: -1
+PNG/box_spin/box_spin_020
+  rotate: true
+  xy: 736, 686
+  size: 205, 247
+  orig: 400, 400
+  offset: 105, 75
+  index: -1
+PNG/box_spin/box_spin_021
+  rotate: true
+  xy: 244, 713
+  size: 178, 239
+  orig: 400, 400
+  offset: 109, 83
+  index: -1
+PNG/box_spin/box_spin_022
+  rotate: true
+  xy: 1236, 678
+  size: 213, 248
+  orig: 400, 400
+  offset: 91, 73
+  index: -1
+PNG/box_spin/box_spin_023
+  rotate: true
+  xy: 1235, 3
+  size: 225, 249
+  orig: 400, 400
+  offset: 90, 70
+  index: -1
+PNG/box_spin/box_spin_024
+  rotate: true
+  xy: 477, 249
+  size: 221, 242
+  orig: 400, 400
+  offset: 93, 73
+  index: -1
+PNG/box_spin/box_spin_025
+  rotate: true
+  xy: 1206, 458
+  size: 218, 230
+  orig: 400, 400
+  offset: 95, 79
+  index: -1
+PNG/box_spin/box_spin_026
+  rotate: true
+  xy: 1725, 675
+  size: 216, 229
+  orig: 400, 400
+  offset: 95, 82
+  index: -1
+PNG/box_spin/box_spin_027
+  rotate: true
+  xy: 480, 472
+  size: 216, 239
+  orig: 400, 400
+  offset: 97, 76
+  index: -1
+PNG/box_spin/box_spin_028
+  rotate: true
+  xy: 966, 236
+  size: 220, 244
+  orig: 400, 400
+  offset: 92, 73
+  index: -1
+PNG/box_spin/box_spin_029
+  rotate: true
+  xy: 1212, 232
+  size: 220, 248
+  orig: 400, 400
+  offset: 90, 71
+  index: -1
+PNG/box_spin/box_spin_030
+  rotate: true
+  xy: 2, 50
+  size: 221, 248
+  orig: 400, 400
+  offset: 90, 71
+  index: -1
+
+CoinsAll3.png
+size: 2030,612
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PNG/confetti/confetti01_000
+  rotate: true
+  xy: 1949, 396
+  size: 51, 52
+  orig: 250, 250
+  offset: 92, 119
+  index: -1
+PNG/confetti/confetti01_001
+  rotate: true
+  xy: 1949, 449
+  size: 66, 74
+  orig: 250, 250
+  offset: 81, 107
+  index: -1
+PNG/confetti/confetti01_002
+  rotate: false
+  xy: 1949, 517
+  size: 79, 93
+  orig: 250, 250
+  offset: 72, 98
+  index: -1
+PNG/confetti/confetti01_003
+  rotate: false
+  xy: 1794, 206
+  size: 92, 108
+  orig: 250, 250
+  offset: 64, 90
+  index: -1
+PNG/confetti/confetti01_004
+  rotate: true
+  xy: 1888, 209
+  size: 105, 119
+  orig: 250, 250
+  offset: 58, 84
+  index: -1
+PNG/confetti/confetti01_005
+  rotate: true
+  xy: 1817, 316
+  size: 117, 129
+  orig: 250, 250
+  offset: 53, 78
+  index: -1
+PNG/confetti/confetti01_006
+  rotate: false
+  xy: 2, 6
+  size: 126, 137
+  orig: 250, 250
+  offset: 49, 73
+  index: -1
+PNG/confetti/confetti01_007
+  rotate: true
+  xy: 130, 9
+  size: 134, 142
+  orig: 250, 250
+  offset: 45, 69
+  index: -1
+PNG/confetti/confetti01_008
+  rotate: true
+  xy: 274, 3
+  size: 142, 148
+  orig: 250, 250
+  offset: 42, 65
+  index: -1
+PNG/confetti/confetti01_009
+  rotate: true
+  xy: 424, 5
+  size: 148, 153
+  orig: 250, 250
+  offset: 39, 61
+  index: -1
+PNG/confetti/confetti01_010
+  rotate: true
+  xy: 740, 2
+  size: 154, 161
+  orig: 250, 250
+  offset: 36, 57
+  index: -1
+PNG/confetti/confetti01_011
+  rotate: false
+  xy: 1817, 36
+  size: 159, 168
+  orig: 250, 250
+  offset: 34, 54
+  index: -1
+PNG/confetti/confetti01_012
+  rotate: false
+  xy: 1783, 435
+  size: 164, 175
+  orig: 250, 250
+  offset: 32, 51
+  index: -1
+PNG/confetti/confetti01_013
+  rotate: true
+  xy: 1083, 6
+  size: 168, 181
+  orig: 250, 250
+  offset: 30, 48
+  index: -1
+PNG/confetti/confetti01_014
+  rotate: false
+  xy: 1642, 17
+  size: 173, 187
+  orig: 250, 250
+  offset: 28, 45
+  index: -1
+PNG/confetti/confetti01_015
+  rotate: false
+  xy: 1464, 2
+  size: 176, 191
+  orig: 250, 250
+  offset: 27, 42
+  index: -1
+PNG/confetti/confetti01_016
+  rotate: true
+  xy: 1266, 3
+  size: 179, 196
+  orig: 250, 250
+  offset: 25, 39
+  index: -1
+PNG/confetti/confetti01_017
+  rotate: false
+  xy: 1610, 206
+  size: 182, 199
+  orig: 250, 250
+  offset: 24, 37
+  index: -1
+PNG/confetti/confetti01_018
+  rotate: false
+  xy: 1595, 407
+  size: 186, 203
+  orig: 250, 250
+  offset: 22, 34
+  index: -1
+PNG/confetti/confetti01_019
+  rotate: false
+  xy: 1421, 195
+  size: 187, 205
+  orig: 250, 250
+  offset: 22, 32
+  index: -1
+PNG/confetti/confetti01_020
+  rotate: false
+  xy: 1403, 402
+  size: 190, 208
+  orig: 250, 250
+  offset: 20, 30
+  index: -1
+PNG/confetti/confetti01_021
+  rotate: false
+  xy: 1226, 184
+  size: 193, 211
+  orig: 250, 250
+  offset: 19, 27
+  index: -1
+PNG/confetti/confetti01_022
+  rotate: false
+  xy: 1207, 397
+  size: 194, 213
+  orig: 250, 250
+  offset: 19, 25
+  index: -1
+PNG/confetti/confetti01_023
+  rotate: false
+  xy: 1028, 176
+  size: 196, 215
+  orig: 250, 250
+  offset: 18, 22
+  index: -1
+PNG/confetti/confetti01_024
+  rotate: false
+  xy: 1007, 393
+  size: 198, 217
+  orig: 250, 250
+  offset: 17, 20
+  index: -1
+PNG/confetti/confetti01_025
+  rotate: false
+  xy: 826, 167
+  size: 200, 219
+  orig: 250, 250
+  offset: 16, 17
+  index: -1
+PNG/confetti/confetti01_026
+  rotate: false
+  xy: 803, 388
+  size: 202, 222
+  orig: 250, 250
+  offset: 15, 14
+  index: -1
+PNG/confetti/confetti01_027
+  rotate: false
+  xy: 621, 158
+  size: 203, 225
+  orig: 250, 250
+  offset: 15, 10
+  index: -1
+PNG/confetti/confetti01_028
+  rotate: false
+  xy: 211, 383
+  size: 204, 227
+  orig: 250, 250
+  offset: 14, 7
+  index: -1
+PNG/confetti/confetti01_029
+  rotate: false
+  xy: 207, 147
+  size: 205, 229
+  orig: 250, 250
+  offset: 14, 4
+  index: -1
+PNG/confetti/confetti01_030
+  rotate: false
+  xy: 2, 378
+  size: 207, 232
+  orig: 250, 250
+  offset: 13, 1
+  index: -1
+PNG/confetti/confetti01_031
+  rotate: false
+  xy: 2, 145
+  size: 203, 231
+  orig: 250, 250
+  offset: 13, 0
+  index: -1
+PNG/confetti/confetti01_032
+  rotate: false
+  xy: 596, 385
+  size: 205, 225
+  orig: 250, 250
+  offset: 12, 5
+  index: -1
+PNG/confetti/confetti01_033
+  rotate: false
+  xy: 414, 155
+  size: 205, 226
+  orig: 250, 250
+  offset: 12, 3
+  index: -1
+PNG/confetti/confetti01_034
+  rotate: false
+  xy: 417, 384
+  size: 177, 226
+  orig: 250, 250
+  offset: 41, 2
+  index: -1
+PNG/confetti/confetti01_035
+  rotate: false
+  xy: 903, 6
+  size: 178, 159
+  orig: 250, 250
+  offset: 41, 68
+  index: -1
+PNG/confetti/confetti01_036
+  rotate: true
+  xy: 579, 8
+  size: 145, 159
+  orig: 250, 250
+  offset: 74, 66
+  index: -1
+PNG/confetti/confetti01_037
+  rotate: true
+  xy: 1783, 414
+  size: 19, 31
+  orig: 250, 250
+  offset: 150, 113
+  index: -1
+
+CoinsAll4.png
+size: 1975,1511
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PNG/mysteryBox/mysteryBox_000
+  rotate: false
+  xy: 1014, 692
+  size: 221, 248
+  orig: 400, 400
+  offset: 90, 71
+  index: -1
+PNG/mysteryBox/mysteryBox_001
+  rotate: true
+  xy: 987, 465
+  size: 225, 251
+  orig: 400, 400
+  offset: 90, 70
+  index: -1
+PNG/mysteryBox/mysteryBox_002
+  rotate: true
+  xy: 933, 14
+  size: 222, 253
+  orig: 400, 400
+  offset: 95, 70
+  index: -1
+PNG/mysteryBox/mysteryBox_003
+  rotate: true
+  xy: 1731, 829
+  size: 178, 240
+  orig: 400, 400
+  offset: 112, 83
+  index: -1
+PNG/mysteryBox/mysteryBox_004
+  rotate: true
+  xy: 1731, 1009
+  size: 222, 242
+  orig: 400, 400
+  offset: 91, 73
+  index: -1
+PNG/mysteryBox/mysteryBox_005
+  rotate: true
+  xy: 1237, 700
+  size: 225, 249
+  orig: 400, 400
+  offset: 90, 70
+  index: -1
+PNG/mysteryBox/mysteryBox_006
+  rotate: true
+  xy: 1721, 392
+  size: 213, 248
+  orig: 400, 400
+  offset: 91, 73
+  index: -1
+PNG/mysteryBox/mysteryBox_007
+  rotate: false
+  xy: 1188, 6
+  size: 218, 230
+  orig: 400, 400
+  offset: 95, 79
+  index: -1
+PNG/mysteryBox/mysteryBox_008
+  rotate: true
+  xy: 1490, 257
+  size: 216, 229
+  orig: 400, 400
+  offset: 95, 82
+  index: -1
+PNG/mysteryBox/mysteryBox_009
+  rotate: true
+  xy: 1488, 709
+  size: 216, 239
+  orig: 400, 400
+  offset: 97, 76
+  index: -1
+PNG/mysteryBox/mysteryBox_010
+  rotate: true
+  xy: 1729, 607
+  size: 220, 244
+  orig: 400, 400
+  offset: 92, 73
+  index: -1
+PNG/mysteryBox/mysteryBox_011
+  rotate: true
+  xy: 1240, 251
+  size: 220, 248
+  orig: 400, 400
+  offset: 90, 71
+  index: -1
+PNG/mysteryBox/mysteryBox_012
+  rotate: true
+  xy: 1721, 169
+  size: 221, 248
+  orig: 400, 400
+  offset: 90, 71
+  index: -1
+PNG/mysteryBox/mysteryBox_013
+  rotate: true
+  xy: 1756, 1286
+  size: 223, 217
+  orig: 400, 400
+  offset: 92, 71
+  index: -1
+PNG/mysteryBox/mysteryBox_014
+  rotate: false
+  xy: 1490, 475
+  size: 229, 232
+  orig: 400, 400
+  offset: 88, 71
+  index: -1
+PNG/mysteryBox/mysteryBox_015
+  rotate: true
+  xy: 1240, 473
+  size: 225, 248
+  orig: 400, 400
+  offset: 88, 71
+  index: -1
+PNG/mysteryBox/mysteryBox_016
+  rotate: true
+  xy: 946, 238
+  size: 225, 266
+  orig: 400, 400
+  offset: 88, 71
+  index: -1
+PNG/mysteryBox/mysteryBox_017
+  rotate: true
+  xy: 649, 20
+  size: 225, 282
+  orig: 400, 400
+  offset: 88, 71
+  index: -1
+PNG/mysteryBox/mysteryBox_018
+  rotate: true
+  xy: 650, 247
+  size: 233, 294
+  orig: 400, 400
+  offset: 88, 71
+  index: -1
+PNG/mysteryBox/mysteryBox_019
+  rotate: true
+  xy: 679, 482
+  size: 231, 306
+  orig: 400, 400
+  offset: 88, 71
+  index: -1
+PNG/mysteryBox/mysteryBox_020
+  rotate: true
+  xy: 329, 62
+  size: 229, 318
+  orig: 400, 400
+  offset: 88, 71
+  index: -1
+PNG/mysteryBox/mysteryBox_021
+  rotate: true
+  xy: 357, 564
+  size: 227, 320
+  orig: 400, 400
+  offset: 88, 71
+  index: -1
+PNG/mysteryBox/mysteryBox_022
+  rotate: true
+  xy: 373, 793
+  size: 227, 321
+  orig: 400, 400
+  offset: 88, 71
+  index: -1
+PNG/mysteryBox/mysteryBox_023
+  rotate: true
+  xy: 696, 715
+  size: 225, 316
+  orig: 400, 400
+  offset: 88, 72
+  index: -1
+PNG/mysteryBox/mysteryBox_024
+  rotate: true
+  xy: 343, 293
+  size: 269, 305
+  orig: 400, 400
+  offset: 73, 71
+  index: -1
+PNG/mysteryBox/mysteryBox_025
+  rotate: true
+  xy: 1421, 927
+  size: 304, 308
+  orig: 400, 400
+  offset: 57, 47
+  index: -1
+PNG/mysteryBox/mysteryBox_026
+  rotate: false
+  xy: 2, 2
+  size: 325, 294
+  orig: 400, 400
+  offset: 47, 42
+  index: -1
+PNG/mysteryBox/mysteryBox_027
+  rotate: false
+  xy: 1086, 955
+  size: 333, 273
+  orig: 400, 400
+  offset: 43, 37
+  index: -1
+PNG/mysteryBox/mysteryBox_028
+  rotate: false
+  xy: 740, 942
+  size: 334, 272
+  orig: 400, 400
+  offset: 42, 15
+  index: -1
+PNG/mysteryBox/mysteryBox_029
+  rotate: false
+  xy: 1086, 1230
+  size: 332, 279
+  orig: 400, 400
+  offset: 43, 13
+  index: -1
+PNG/mysteryBox/mysteryBox_030
+  rotate: false
+  xy: 1420, 1233
+  size: 334, 276
+  orig: 400, 400
+  offset: 42, 22
+  index: -1
+PNG/mysteryBox/mysteryBox_031
+  rotate: false
+  xy: 2, 298
+  size: 339, 283
+  orig: 400, 400
+  offset: 37, 19
+  index: -1
+PNG/mysteryBox/mysteryBox_032
+  rotate: false
+  xy: 740, 1216
+  size: 344, 293
+  orig: 400, 400
+  offset: 31, 14
+  index: -1
+PNG/mysteryBox/mysteryBox_033
+  rotate: false
+  xy: 2, 583
+  size: 353, 300
+  orig: 400, 400
+  offset: 26, 10
+  index: -1
+PNG/mysteryBox/mysteryBox_034
+  rotate: false
+  xy: 376, 1202
+  size: 362, 307
+  orig: 400, 400
+  offset: 22, 7
+  index: -1
+PNG/mysteryBox/mysteryBox_035
+  rotate: false
+  xy: 2, 885
+  size: 369, 312
+  orig: 400, 400
+  offset: 18, 4
+  index: -1
+PNG/mysteryBox/mysteryBox_036
+  rotate: false
+  xy: 2, 1199
+  size: 372, 310
+  orig: 400, 400
+  offset: 18, 5
+  index: -1
+PNG/mysteryBox/mysteryBox_037
+  rotate: false
+  xy: 376, 1022
+  size: 331, 178
+  orig: 400, 400
+  offset: 44, 4
+  index: -1
+PNG/mysteryBox/mysteryBox_038
+  rotate: false
+  xy: 376, 1022
+  size: 331, 178
+  orig: 400, 400
+  offset: 44, 4
+  index: -1
