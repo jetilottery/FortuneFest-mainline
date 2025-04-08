@@ -48,14 +48,14 @@
     <dependency>
       <groupId>com.igt.interactive.skbJet.buildInfrastructure</groupId>
       <artifactId>jetIWGameGruntHelper</artifactId>
-      <version>1.0.2-SNAPSHOT</version>
+      <version>1.0.2</version>
       <classifier>dist</classifier>
       <type>zip</type>
     </dependency>
     <dependency>
       <groupId>com.igt.interactive.skbJet.componentManchester.standardIW</groupId>
       <artifactId>standardIW</artifactId>
-      <version>3.2.17-SNAPSHOT</version>
+      <version>3.2.17</version>
       <classifier>dist</classifier>
       <type>zip</type>
     </dependency>
@@ -97,7 +97,7 @@
     <dependency>
       <groupId>com.igt.interactive.skbJet.componentManchester.spineLoader</groupId>
       <artifactId>spineLoader</artifactId>
-      <version>1.0.1-SNAPSHOT</version>
+      <version>1.0.1</version>
       <classifier>dist</classifier>
       <type>zip</type>
     </dependency>
@@ -105,14 +105,14 @@
       <groupId>com.igt.interactive.skbJet.buildInfrastructure</groupId>
       <artifactId>jetGameGruntCompiler</artifactId>
       <classifier>dist</classifier>
-      <version>2.0.3-SNAPSHOT</version>
+      <version>2.0.3</version>
       <type>zip</type>
     </dependency>
     <dependency>
       <groupId>com.igt.interactive.skbJet.buildInfrastructure.manchester</groupId>
       <artifactId>jetGameBabelTranspile</artifactId>
       <classifier>dist</classifier>
-      <version>1.4.0-SNAPSHOT</version>
+      <version>1.4.0</version>
       <type>zip</type>
     </dependency>
     <dependency>
